@@ -129,3 +129,7 @@ main{
     text-align: left;
     font-size: 16px;
 }
+/* resume style */
+.resume-container{
+    display: flex;
+}
