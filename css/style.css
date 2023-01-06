@@ -179,6 +179,27 @@ main {
     margin: 0 auto;
     display: flex;
     justify-content: space-between;
-    align-items: center;
+   
     gap: 100px;
+    padding: 130px 0;
+}
+.contact .section-title{
+    text-align: left;
+    font-size: 30px;
+    font-weight: 700;
+}
+.connect .section-description{
+    text-align: left;
+}
+.connect .connect-image a{
+    text-decoration: none;
+    margin-right: 20px;
+}
+.message input[type="text"],input[type="email"],textarea{
+    width: 100%;
+    padding: 18px 30px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    color: #757575;
+    border: none;
 }
