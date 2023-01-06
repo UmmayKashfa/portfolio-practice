@@ -170,3 +170,15 @@ main {
     margin-top: 30px;
     margin-bottom:100px;
 }
+/* footer style */
+.footer{
+    background-color: #FFF8F3;
+}
+.contact{
+    max-width: 1140px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 100px;
+}
